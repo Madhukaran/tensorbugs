@@ -1,14 +1,14 @@
 {
     "name": "tensorbugs",
     "short_name": "tensorbugs",
-    "start_url": "pwa.html",
+    "start_url": "https://www.tensorbugs.in/",
     "display": "fullscreen",
     "background_color": "#fdfdfd",
     "theme_color": "#fff",
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "t.png",
+        "src": "https://raw.githubusercontent.com/Madhukaran/tensorbugs/main/t.png",
         "type": "image/png", "sizes": "256x256"
       }
     ]
