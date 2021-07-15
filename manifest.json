@@ -1,0 +1,15 @@
+{
+    "name": "tensorbugs",
+    "short_name": "tensorbugs",
+    "start_url": "pwa.html",
+    "display": "fullscreen",
+    "background_color": "#fdfdfd",
+    "theme_color": "#fff",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "t.png",
+        "type": "image/png", "sizes": "256x256"
+      }
+    ]
+  }
